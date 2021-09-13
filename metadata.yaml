@@ -1,0 +1,42 @@
+_repo: Ket-varos-Regeny-harom-konyvben_66149
+_version: 0.0.1
+alternative_title: A tale of two cities. Hungarian
+contributor:
+  translator:
+    agent_name: Bálint, Mihály
+    alias: Balint, Mihaly
+    gutenberg_agent_id: '53656'
+    url: http://www.gutenberg.org/2009/agents/53656
+creator:
+  author:
+    agent_name: Dickens, Charles
+    aliases:
+    - Dickens, Charles John Huffam
+    - Boz
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: https://en.wikipedia.org/wiki/Charles_Dickens
+description: ''
+gutenberg_issued: '2021-08-27'
+identifiers:
+  gutenberg: '66149'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'British -- France -- Paris -- Fiction'
+- !lcsh 'London (England) -- History -- 18th century -- Fiction'
+- !lcc 'PR'
+- !lcsh 'War stories'
+- !lcsh 'Paris (France) -- History -- 1789-1799 -- Fiction'
+- !lcsh 'France -- History -- Revolution, 1789-1799 -- Fiction'
+- !lcsh 'Executions and executioners -- Fiction'
+- !lcsh 'Lookalikes -- Fiction'
+- !lcsh 'French -- England -- London -- Fiction'
+- GITenberg
+title: 'Két város: Regény három könyvben'
+url: http://www.gutenberg.org/ebooks/66149
