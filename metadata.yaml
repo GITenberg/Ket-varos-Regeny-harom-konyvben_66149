@@ -1,5 +1,5 @@
 _repo: Ket-varos-Regeny-harom-konyvben_66149
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: A tale of two cities. Hungarian
 contributor:
   translator:
@@ -7,6 +7,9 @@ contributor:
     alias: Balint, Mihaly
     gutenberg_agent_id: '53656'
     url: http://www.gutenberg.org/2009/agents/53656
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dickens, Charles
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37
     wikipedia: https://en.wikipedia.org/wiki/Charles_Dickens
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66149#Ket-varos-Regeny-harom-konyvben
 gutenberg_issued: '2021-08-27'
 identifiers:
   gutenberg: '66149'
